@@ -1,4 +1,9 @@
-## HALOS:
+## HALOS: Hallucination-free Organ Segmentation after Organ Resection Surgery"
+
+
+[![Conference Paper](https://img.shields.io/static/v1?label=DOI&message=10.1007%2f978-3-030-87240-3_66&color=3a7ebb)](https://doi.org/10.1007/978-3-031-34048-2_51)
+[![Preprint](https://img.shields.io/badge/arXiv-2107.05990-b31b1b)](https://arxiv.org/abs/2303.07717)
+[![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](LICENSE)
 
 This repository contains the code of the paper: "HALOS: Hallucination-free Organ Segmentation after Organ Resection Surgery"
 Authors: [Murong Xu, murong-xu](https://github.com/murong-xu), [Anne-Marie Rickmann, arickm](https://github.com/arickm)
