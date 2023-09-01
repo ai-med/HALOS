@@ -54,7 +54,7 @@ for deep learning-based biomedical image segmentation. Nature Methods, 1-9.
 
 
 ## Docker:
-
+A docker image to run our code can be found here: https://github.com/orgs/ai-med/packages/container/package/halos
 
 
 ## data structure:
