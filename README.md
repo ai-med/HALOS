@@ -1,6 +1,7 @@
 ## HALOS:
 
 This repository contains the code of the paper: "HALOS: Hallucination-free Organ Segmentation after Organ Resection Surgery"
+Authors: [Murong Xu, murong-xu](https://github.com/murong-xu), [Anne-Marie Rickmann, arickm](https://github.com/arickm)
 
 If you're using our code, please cite:
 ```
